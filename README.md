@@ -1,2 +1,1 @@
-@echo off
-node RainbowRole.js
+stop skidding skid skid
